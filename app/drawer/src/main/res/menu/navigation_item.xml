@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/more"
+        android:title="快讯" />
+
+    <item
+        android:id="@+id/navigation_community"
+        android:icon="@mipmap/find"
+        android:title="搜索" />
+    <item
+        android:id="@+id/navigation_find"
+        android:icon="@mipmap/huann"
+        android:title="换乘" />
+
+    <item
+        android:id="@+id/navigation_shopCart"
+        android:icon="@mipmap/ding"
+        android:title="定制" />
+
+
+</menu>

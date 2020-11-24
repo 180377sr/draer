@@ -1,0 +1,3 @@
+rootProject.name='drawable'
+include ':app'
+include ':app:drawer'
